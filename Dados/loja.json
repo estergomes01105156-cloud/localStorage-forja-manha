@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "desc": "Aliança de prata 1",
+        "imagem": "../Dados/Images/1.jpg",
+        "preco": 1547.0
+    },
+    {
+        "id": 2,
+        "desc": "Aliança de prata 2",
+        "imagem": "../Dados/Images/2.jpg",
+        "preco": 1682.0
+    },
+    {
+        "id": 3,
+        "desc": "Aliança de prata 3",
+        "imagem": "../Dados/Images/3.jpg",
+        "preco": 1974.0
+    },
+    {
+        "id": 4,
+        "desc": "Brinco de prata 4",
+        "imagem": "../Dados/Images/4.jpg",
+        "preco": 427.0
+    },
+    {
+        "id": 5,
+        "desc": "Brinco de prata 5",
+        "imagem": "../Dados/Images/5.jpg",
+        "preco": 372.0
+    },
+    {
+        "id": 6,
+        "desc": "Colar de prata 6",
+        "imagem": "../Dados/Images/6.jpg",
+        "preco": 410.0
+    },
+    {
+        "id": 7,
+        "desc": "Colar de prata 7",
+        "imagem": "../Dados/Images/7.jpg",
+        "preco": 395.0
+    },
+    {
+        "id": 8,
+        "desc": "Colar de prata 8",
+        "imagem": "../Dados/Images/8.jpg",
+        "preco": 483.0
+    },
+    {
+        "id": 9,
+        "desc": "Pulseira de prata 9",
+        "imagem": "../Dados/Images/9.jpg",
+        "preco": 1320.0
+    },
+    {
+        "id": 10,
+        "desc": "Pulseira de prata 10",
+        "imagem": "../Dados/Images/10.jpg",
+        "preco": 1624.0
+    }
+
+]
